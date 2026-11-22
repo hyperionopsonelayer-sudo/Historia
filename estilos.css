@@ -377,7 +377,7 @@ main {
   border-top: 1px solid var(--color-borde);
 }
 
-.pie p { margin: 0; }
+
 
 @media (max-width: 800px) {
   .rejilla { grid-template-columns: 1fr; }
