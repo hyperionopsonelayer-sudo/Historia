@@ -366,15 +366,7 @@ main {
 
 .oculto { display: none; }
 
-.pie {
-  background-color: #0d0d0d;
-  color: var(--color-texto-suave);
-  text-align: center;
-  padding: 20px;
-  margin-top: 30px;
-  font-size: 0.85rem;
-  border-top: 1px solid var(--color-borde);
-}
+
 
 
 
